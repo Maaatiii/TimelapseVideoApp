@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimelapseVideoApp", "TimelapseVideoApp\TimelapseVideoApp.csproj", "{B4845226-F13F-4370-A428-D7A871E6E94E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimelapseBlobCopyFunction", "TimelapseBlobCopyFunction\TimelapseBlobCopyFunction.csproj", "{C2A87A35-0D7C-4DB4-8C8F-5D839B0BE51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4845226-F13F-4370-A428-D7A871E6E94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4845226-F13F-4370-A428-D7A871E6E94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4845226-F13F-4370-A428-D7A871E6E94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4845226-F13F-4370-A428-D7A871E6E94E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2A87A35-0D7C-4DB4-8C8F-5D839B0BE51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2A87A35-0D7C-4DB4-8C8F-5D839B0BE51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2A87A35-0D7C-4DB4-8C8F-5D839B0BE51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2A87A35-0D7C-4DB4-8C8F-5D839B0BE51D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF543E5B-F041-4304-B35C-927DE9B1FC38}
+	EndGlobalSection
+EndGlobal
